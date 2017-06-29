@@ -31,6 +31,7 @@ project_folder/
         "secret_key": "Django secret key"
     }
 }
+```
 
 ### settings_debug.json example
 ```
@@ -40,7 +41,8 @@ project_folder/
       "*"
     ]
   }
-}```
+}
+```
 
 ### settings_deploy.json example
 ```
