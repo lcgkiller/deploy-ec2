@@ -23,7 +23,6 @@ CONFIG_SECRET_DEBUG_FILE = os.path.join(CONFIG_SECRET_DIR, 'settings_debug.json'
 CONFIG_SECRET_DEPLOY_FILE = os.path.join(CONFIG_SECRET_DIR, 'settings_deploy.json')
 
 
-
 # config_secret 변수에 CONFIG_SECRET_COMMON_FILE 경로의 파일을 읽은 값을 할당
 # f = open(CONFIG_SECRET_COMMON_FILE)
 # config_secret_string = f.read()
